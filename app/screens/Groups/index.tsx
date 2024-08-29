@@ -5,9 +5,8 @@ export default function Groups() {
   return (
     <Container>
       <Title>
-        Hello World
+        Groups
       </Title>
-
     </Container>
   );
 }
